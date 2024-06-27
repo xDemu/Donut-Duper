@@ -32,5 +32,9 @@ Dupes any item on the server
 
 #### Is this bannable?
 
-No, no this dupe is undetectable and its still unpatched
+No, no this dupe is undetectable and its still unpatched^
+
+## Whats the version
+
+The version is fabric 1.20.4, but i have more versions in my discord
 
