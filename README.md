@@ -4,11 +4,11 @@
 
 
 
-[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](https://shorturl.at/rvwxN)
+[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](https://shorturl.at/zAkIZ)
 
-[![version](https://img.shields.io/badge/version-1.8.9-green?style=for-the-badge&logo=appveyor)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
+[![version](https://img.shields.io/badge/version-1.8.9-green?style=for-the-badge&logo=appveyor)](https://fabricmc.net/2023/11/30/1203.html)
 
-[![release](https://img.shields.io/badge/release-1.0-green?style=for-the-badge&logo=appveyor)](https://github.com/AspectOfTheFlipperX/AspectOfTheFlipper)
+[![release](https://img.shields.io/badge/release-1.0-green?style=for-the-badge&logo=appveyor)]([https://github.com/AspectOfTheFlipperX/AspectOfTheFlipper](https://github.com/xDemu/Donut-Duper))
 
 
 ## Download
