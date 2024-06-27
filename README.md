@@ -6,7 +6,7 @@
 ![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)
 
 
-[![version](https://img.shields.io/badge/version-1.20.4-green?style=for-the-badge&logo=appveyor)](https://fabricmc.net/2023/11/30/1203.html)
+[![version](https://img.shields.io/badge/version-1.20.1-green?style=for-the-badge&logo=appveyor)](https://fabricmc.net/2023/11/30/1203.html)
 
 [![release](https://img.shields.io/badge/release-1.0-green?style=for-the-badge&logo=appveyor)]([https://github.com/AspectOfTheFlipperX/AspectOfTheFlipper](https://github.com/xDemu/Donut-Duper))
 
@@ -36,5 +36,5 @@ No, no this dupe is undetectable and its still unpatched^
 
 ## Whats the version
 
-The version is fabric 1.20.4, but i have more versions in my discord
+The version is fabric 1.20.1, but i have more versions in my discord
 
