@@ -4,7 +4,7 @@
 
 
 
-[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](https://shorturl.at/zAkIZ)
+[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)]
 
 [![version](https://img.shields.io/badge/version-1.8.9-green?style=for-the-badge&logo=appveyor)](https://fabricmc.net/2023/11/30/1203.html)
 
