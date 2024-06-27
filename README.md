@@ -34,7 +34,8 @@ Dupes any item on the server
 
 No, no this dupe is undetectable and its still unpatched^
 
-## Whats the version
+## Whats the version?
 
-The version is fabric 1.20.1, but i have more versions in my discord
+The version is fabric 1.20.1 and Fabric 1.19.2 (check releases)
+
 
